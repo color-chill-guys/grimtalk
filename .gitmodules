@@ -4,3 +4,6 @@
 [submodule "grimtalkback"]
 	path = grimtalkback
 	url = https://lab.ssafy.com/moda2047/grimtalkback.git
+[submodule "grimtalksocket"]
+	path = grimtalksocket
+	url = https://lab.ssafy.com/moda2047/grimtalksocket.git
