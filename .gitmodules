@@ -1,3 +1,6 @@
 [submodule "grimtalkfront"]
 	path = grimtalkfront
 	url = https://lab.ssafy.com/hoonixox/grimtalkfront.git
+[submodule "grimtalkback"]
+	path = grimtalkback
+	url = https://lab.ssafy.com/moda2047/grimtalkback.git
