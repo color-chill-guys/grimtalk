@@ -1,12 +1,12 @@
-[submodule "grimtalkfront"]
-	path = grimtalkfront
+[submodule "grimtalkFront"]
+	path = grimtalkFront
 	url = https://lab.ssafy.com/hoonixox/grimtalkfront.git
-[submodule "grimtalkback"]
-	path = grimtalkback
+[submodule "grimtalkBack"]
+	path = grimtalkBack
 	url = https://lab.ssafy.com/moda2047/grimtalkback.git
-[submodule "grimtalksocket"]
-	path = grimtalksocket
+[submodule "grimtalkSocket"]
+	path = grimtalkSocket
 	url = https://lab.ssafy.com/moda2047/grimtalksocket.git
-[submodule "grimtalk_image_compare"]
-	path = grimtalk_image_compare
+[submodule "grimtalkImageCompare"]
+	path = grimtalkImageCompare
 	url = https://lab.ssafy.com/woans5970/grimtalk_image_compare.git
