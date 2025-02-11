@@ -7,3 +7,6 @@
 [submodule "grimtalksocket"]
 	path = grimtalksocket
 	url = https://lab.ssafy.com/moda2047/grimtalksocket.git
+[submodule "grimtalk_image_compare"]
+	path = grimtalk_image_compare
+	url = https://lab.ssafy.com/woans5970/grimtalk_image_compare.git
