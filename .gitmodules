@@ -1,0 +1,3 @@
+[submodule "grimtalkfront"]
+	path = grimtalkfront
+	url = https://lab.ssafy.com/hoonixox/grimtalkfront.git
