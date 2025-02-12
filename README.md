@@ -46,7 +46,7 @@
 - **React**, **Tailwind CSS**
 
 ### ⚙️ 백엔드
-- **Java 17**, **Spring Boot**, **FastAPI**
+- **Java 17**, **Spring Boot**, **FastAPI**, **Openvidu (WebRTC)**,
 
 ### 🗄️ 데이터베이스
 - **MySQL 8.0.4**, **Redis**, **MongoDB**
@@ -77,41 +77,28 @@ src/
 ```
 
 ### 🖥️ 백엔드
-- **Spring Boot:** REST API 서버
-- **FastAPI:** AI 유사도 측정 서버
-- **Socket 서버:** 실시간 그림 데이터 전송 처리
+1. Springboot
+- 폴더구조
+2. FastAPI
+- 폴더구조
+3. SocketServer
+- 폴더구조
 
 ### 🏗️ 아키텍처
-- MSA 구조로 각 서비스 독립 운영
-- **Docker & Jenkins**를 활용한 CI/CD 파이프라인 구축
+- 이미지 위치
 
 ---
 
 ## ⚙️ 설치 및 실행 방법
-
+-> 다시 수정할 예정
 ### 1️⃣ 로컬 개발 환경 설정
 ```bash
-# 프로젝트 클론
-git clone https://github.com/your-repo/grimtalk.git
-cd grimtalk
 
-# 프론트엔드 설치
-cd frontend
-npm install
-npm run dev
-
-# 백엔드 실행
-cd backend
-./gradlew bootRun
 ```
 
 ### 2️⃣ 서버 배포 (Docker & Jenkins)
 ```bash
-# 도커 빌드 및 실행
-docker-compose up --build
 
-# 젠킨스를 통한 자동 배포 설정
-jenkins build deploy
 ```
 
 ---
@@ -121,11 +108,11 @@ jenkins build deploy
 | 🧑‍💻 **이름**    | 🏆 **역할**        | 🚀 **담당 파트**        |
 |:----------------:|:-----------------:|:-----------------------:|
 | **전승기**       | 팀장, 인프라 담당 | 인프라, CI/CD, 배포     |
-| **류재문**       | 백엔드 개발자     | API 개발, 데이터베이스  |
-| **권상웅**       | 백엔드 개발자     | 소켓 서버, 데이터 처리 |
-| **우정훈**       | 부팀장, 프론트엔드 | UI/UX 설계, 프론트 개발 |
-| **우준규**       | 프론트엔드, 디자이너 | 디자인, 컴포넌트 개발  |
-| **임재열**       | 프론트엔드 개발자  | 대시보드, 상태 관리     |
+| **류재문**       | 백엔드 개발자     | WebRTC, Stomp, AI 유사도분석 |
+| **권상웅**       | 백엔드 개발자     | API 개발, 데이터베이스 |
+| **우정훈**       | 부팀장, 프론트엔드 |  |
+| **우준규**       | 프론트엔드, 디자이너 | 디자인 |
+| **임재열**       | 프론트엔드 개발자  |      |
 
 ---
 
