@@ -77,8 +77,26 @@ src/
 ```
 
 ### 🖥️ 백엔드
-1. Springboot
-- 폴더구조
+1. Spring Boot
+```bash
+src/
+├── aspects/          # AOP 설정 (로깅)
+├── config/           # 애플리케이션 설정 파일
+│   ├── cookie/       # 쿠키 관련 설정 및 관리
+│   └── jwt/          # JWT 인증 및 보안 설정
+├── controller/       # REST API 요청을 처리하는 컨트롤러
+│   ├── common/       # API Response 커스텀
+│   ├── request/      # 요청(Request) DTO 관리
+│   ├── response/     # 응답(Response) DTO 관리
+│   └── stomp/        # WebSocket(STOMP) 관련 컨트롤러
+├── exception/        # 전역 예외 처리 및 커스텀 예외 정의
+├── handler/          # 예외 및 에러 처리 핸들러
+├── model/            # 비즈니스 로직과 관련된 데이터 모델
+│   ├── dto/          # 데이터 전송 객체(DTO)
+│   ├── entity/       # JPA 엔티티 클래스 (DB 테이블 매핑)
+│   └── repository/   # 데이터베이스 CRUD를 위한 Repository 인터페이스
+└── service/          # 비즈니스 로직을 처리하는 서비스 계층
+
 2. FastAPI
 - 폴더구조
 3. SocketServer
@@ -117,6 +135,8 @@ src/
 ---
 
 ## 📌 기타 정보
+### 유저플로우 ( 수강생 )
+![image.png](./image.png)
 
 - **CI/CD:** GitLab, Jenkins를 활용한 자동화 배포
 - **배포 URL:** [www.grimtalk.com](http://www.grimtalk.com)
