@@ -96,12 +96,22 @@ src/
 │   ├── entity/       # JPA 엔티티 클래스 (DB 테이블 매핑)
 │   └── repository/   # 데이터베이스 CRUD를 위한 Repository 인터페이스
 └── service/          # 비즈니스 로직을 처리하는 서비스 계층
-
+```
 2. FastAPI
-- 폴더구조
+```bash
+src
+├─api                 # REST API 요청을 처리하는 라우터
+├─common              # 데이터 전송 객체(DTO)
+└─exception           # 전역 예외 처리 및 커스텀 예외 정의
+```
 3. SocketServer
-- 폴더구조
-
+```bash
+src
+├── config            # 애플리케이션 설정 파일
+├── controller        # REST API 요청을 처리하는 컨트롤러
+├── dto               # 데이터 전송 객체(DTO)
+└── service           # 비즈니스 로직을 처리하는 서비스 계층
+```
 ### 🏗️ 아키텍처
 - 이미지 위치
 
