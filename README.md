@@ -113,7 +113,10 @@ src
 └── service           # 비즈니스 로직을 처리하는 서비스 계층
 ```
 ### 🏗️ 아키텍처
-- 이미지 위치
+![architecture](architecture.png)
+
+### 📚 ERD
+![erd](erd.png)
 
 ---
 
@@ -175,7 +178,7 @@ src
 
 ## 📌 기타 정보
 ### 유저플로우 ( 수강생 )
-![image.png](./image.png)
+![user-flow](user-flow.png)
 
 - **CI/CD:** GitLab, Jenkins를 활용한 자동화 배포
 - **배포 URL:** [www.grimtalk.com](http://www.grimtalk.com)
