@@ -152,7 +152,8 @@ src
   - AWS EC2, Docker, Jenkins를 활용한 CI/CD 파이프라인 구축  
   - Nginx를 이용한 트래픽 관리(로드밸런싱싱) 및 리버스 프록시 설정   
   - Docker compose를 통해서 docker 컨테이너 한 번에 관리
-- ** PM **
+  - nGrinder로 부하테스트트
+- **PM**
   - 전체 일정 관리 및 파트 분배 / QA 담당
 
 ### 류재문  
