@@ -61,19 +61,25 @@
 ### 📦 프론트엔드
 ```bash
 src/
-├── api/              # API 관련 로직
-│   ├── axios.js      # axios 인스턴스 설정
-│   └── services/     # API 요청 함수들
-├── assets/           # 이미지, 폰트 등 정적 파일
-├── components/       # 재사용 가능한 컴포넌트
-│   ├── common/       # 공통 컴포넌트 (Button, Input 등)
-│   └── layout/       # 레이아웃 관련 컴포넌트
-├── hooks/            # 커스텀 훅
-├── layouts/          # 레이아웃 컴포넌트
-├── routes/           # 라우터 설정
-├── store/            # 상태 관리 (Zustand)
-├── styles/           # 전역 스타일
-└── utils/            # 유틸리티 함수
+├── api/            # API 관련 로직
+│   └── instance.js # axios 인스턴스 설정
+├── assets/         # 이미지, 폰트 등 정적 파일
+│   └── images/     # 이미지
+│   └── lottie/     # lottie 관련 json
+├── components/     # 재사용 가능한 컴포넌트
+│   ├── common/     # 공통 컴포넌트 (Button, Input 등)
+│   └── layout/     # 레이아웃 관련 컴포넌트 (Header, Footer 등)
+│       └── icons.jsx      # 아이콘 컴포넌트
+├── hooks/          # 커스텀 훅
+├── layouts/        # 레이아웃 컴포넌트
+├── lib/            # 외부 라이브러리 관련 유틸
+├── routes/         # 라우트 설정
+│   ├── pages/      # 페이지 컴포넌트
+│   └── index.jsx   # 라우트 설정
+├── store/          # 상태 관리 (Zustand)
+├── styles/         # 전역 스타일
+│   └── global.css
+└── utils/          # 유틸리티 함수
 ```
 
 ### 🖥️ 백엔드
@@ -136,12 +142,12 @@ src
 
 ## 👨‍👩‍👧‍👦 팀원 정보
 
-| 🧑‍💻 **이름**    | 🏆 **역할**        | 🚀 **이메일주소소**        |
+| 🧑‍💻 **이름**    | 🏆 **역할**        | 🚀 **이메일주소**        |
 |:----------------:|:-----------------:|:-----------------------:|
 | **전승기**       | 팀장, 인프라 담당 | moda2047@naver.com     |
 | **류재문**       | 백엔드 개발자     |  |
 | **권상웅**       | 백엔드 개발자     |  |
-| **우정훈**       | 부팀장, 프론트엔드 |  |
+| **우정훈**       | 부팀장, 프론트엔드 | hoonixox@naver.com |
 | **우준규**       | 프론트엔드, 디자이너 |  |
 | **임재열**       | 프론트엔드 개발자  |      |
 
@@ -152,7 +158,7 @@ src
   - AWS EC2, Docker, Jenkins를 활용한 CI/CD 파이프라인 구축  
   - Nginx를 이용한 트래픽 관리(로드밸런싱싱) 및 리버스 프록시 설정   
   - Docker compose를 통해서 docker 컨테이너 한 번에 관리
-  - nGrinder로 부하테스트트
+  - nGrinder로 부하테스트
 - **PM**
   - 전체 일정 관리 및 파트 분배 / QA 담당
 
@@ -167,8 +173,14 @@ src
   - 회원 기능 및 REST API CRUD 개발
   - RDS, DynamoDB, S3 인프라 구축
 ### 우정훈  
-- **프론트엔드 개발**  
-  - 블라블라라 
+- **프론트엔드 개발**
+  - Excalidraw <-> Stomp 연동을 통해 실시간 그림 공유 및 수정 기능 구현
+  - OpenVidu 3 버전 커스터마이징을 통해 영상 송출 및 회의 환경 최적화
+  - SSE 알람 연동을 통한 실시간 알림 기능 구현
+  - 팀 전체 Git 흐름 및 프론트엔드 코드 품질 관리
+  - Prettier와 ESLint 설정을 통해 코드 스타일 일관성 유지 및 자동화
+  - Mattermost와 GitLab 연동을 통한 실시간 커뮤니케이션 및 코드 관리 연계
+  - Jira와 GitLab 연동으로 프로젝트 관리 및 작업 흐름 최적화
 
 ### 우준규  
 - **프론트엔드 개발**  
