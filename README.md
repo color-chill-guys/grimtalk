@@ -43,7 +43,7 @@
 ## 🛠️ 기술 스택
 
 ### 💻 프론트엔드
-- **React**, **Tailwind CSS**
+- **React**, **Tailwind CSS** **react-query** **Zustand** **shadcn/ui**  **Framer-Motion** **Lottie** **Excalidraw** **Axios** **STOMP.js** **LiveKit** **nivo** **ESLint** **Prettier**
 
 ### ⚙️ 백엔드
 - **Java 17**, **Spring Boot**, **FastAPI**, **Openvidu (WebRTC)**,
