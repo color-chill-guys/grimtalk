@@ -119,10 +119,10 @@ src
 └── service           # 비즈니스 로직을 처리하는 서비스 계층
 ```
 ### 🏗️ 아키텍처
-![architecture](architecture.png)
+![architecture](사진 모음집/architecture.png)
 
 ### 📚 ERD
-![erd](erd.png)
+![erd](사진 모음집/erd.png)
 
 ---
 
