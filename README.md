@@ -55,7 +55,7 @@
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 ![Zustand](https://img.shields.io/badge/zustand-black.svg?style=for-the-badge&logo=zustand&logoColor=black)
 ![shadcn](https://img.shields.io/badge/shadcn/ui-black.svg?style=for-the-badge&logo=shadcn&logoColor=black)
-![Framer-Motion](https://img.shields.io/badge/framermotion-black.svg?style=for-the-badge&logo=framermotion&logoColor=black)
+![Framer-Motion](https://img.shields.io/badge/framer_motion-black.svg?style=for-the-badge&logo=framer-motion&logoColor=black)
 ![Lottie](https://img.shields.io/badge/lottie-black.svg?style=for-the-badge&logo=lottie&logoColor=black)
 ![Stomp](https://img.shields.io/badge/stompjs-black.svg?style=for-the-badge&logo=stompjs&logoColor=black)
 ![LiveKit](https://img.shields.io/badge/livekit-black.svg?style=for-the-badge&logo=livekit&logoColor=black)
@@ -83,7 +83,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Docker](https://img.shields.io/badge/dockercompose-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/docker_compose-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -103,11 +103,11 @@
 ### IDE & 편집툴
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Adobe](https://img.shields.io/badge/adobePremierePro-%23FF0000.svg?style=for-the-badge&logo=adobePremierePro&logoColor=white)
+![Adobe](https://img.shields.io/badge/adobe_Premiere_Pro-%23FF0000.svg?style=for-the-badge&logo=adobe-Premiere-Pro&logoColor=white)
 ![OBS](https://img.shields.io/badge/obsstudio-black.svg?style=for-the-badge&logo=obsstudio&logoColor=white)
-![ScreenToGif](https://img.shields.io/badge/ScreenToGif-black.svg?style=for-the-badge&logo=ScreenToGif&logoColor=white)
+![ScreenToGif](https://img.shields.io/badge/Screen_To_Gif-black.svg?style=for-the-badge&logo=Screen-To-Gif&logoColor=white)
 
 
 ---
