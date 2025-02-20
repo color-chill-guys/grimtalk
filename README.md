@@ -43,16 +43,72 @@
 ## 🛠️ 기술 스택
 
 ### 💻 프론트엔드
-- **React**, **Tailwind CSS** **react-query** **Zustand** **shadcn/ui**  **Framer-Motion** **Lottie** **Excalidraw** **Axios** **STOMP.js** **LiveKit** **nivo** **ESLint** **Prettier**
+![React](https://img.shields.io/badge/react-%230db7ed.svg?style=for-the-badge&logo=react&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Excalidraw](https://img.shields.io/badge/Excalidraw-purple.svg?style=for-the-badge&logo=Excalidraw&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
+![Axios](https://img.shields.io/badge/axios-%23663399.svg?style=for-the-badge&logo=axios&logoColor=)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+![Zustand](https://img.shields.io/badge/zustand-black.svg?style=for-the-badge&logo=zustand&logoColor=black)
+![shadcn](https://img.shields.io/badge/shadcn/ui-black.svg?style=for-the-badge&logo=shadcn&logoColor=black)
+![Framer-Motion](https://img.shields.io/badge/framermotion-black.svg?style=for-the-badge&logo=framermotion&logoColor=black)
+![Lottie](https://img.shields.io/badge/lottie-black.svg?style=for-the-badge&logo=lottie&logoColor=black)
+![Stomp](https://img.shields.io/badge/stompjs-black.svg?style=for-the-badge&logo=stompjs&logoColor=black)
+![LiveKit](https://img.shields.io/badge/livekit-black.svg?style=for-the-badge&logo=livekit&logoColor=black)
+![Nivo](https://img.shields.io/badge/nivo-black.svg?style=for-the-badge&logo=nivo&logoColor=black)
 
 ### ⚙️ 백엔드
-- **Java 17**, **Spring Boot**, **FastAPI**, **Openvidu (WebRTC)**,
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-black.svg?style=for-the-badge&logo=yaml&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPTAPI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Openvidu](https://img.shields.io/badge/openvidu-black.svg?style=for-the-badge&logo=openvidu&logoColor=black)
 
 ### 🗄️ 데이터베이스
-- **MySQL 8.0.4**, **Redis**, **MongoDB**
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
 ### ☁️ 인프라
-- **Ubuntu**, **Docker**, **AWS**, **Jenkins**, **Docker-compose**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/dockercompose-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+
+### 협업 툴
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Mattermost](https://img.shields.io/badge/Mattermost-0285FF?style=for-the-badge&logo=Mattermost&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
+
+### IDE & 편집툴
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Adobe](https://img.shields.io/badge/adobePremierePro-%23FF0000.svg?style=for-the-badge&logo=adobePremierePro&logoColor=white)
+![OBS](https://img.shields.io/badge/obsstudio-black.svg?style=for-the-badge&logo=obsstudio&logoColor=white)
+![ScreenToGif](https://img.shields.io/badge/ScreenToGif-black.svg?style=for-the-badge&logo=ScreenToGif&logoColor=white)
+
 
 ---
 
