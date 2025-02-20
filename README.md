@@ -212,7 +212,7 @@ src
 ### 전승기  
 - **인프라 구축**  
   - AWS EC2, Docker, Jenkins를 활용한 CI/CD 파이프라인 구축  
-  - Nginx를 이용한 트래픽 관리(로드밸런싱싱) 및 리버스 프록시 설정   
+  - Nginx를 이용한 트래픽 관리(로드밸런싱) 및 리버스 프록시 설정   
   - Docker compose를 통해서 docker 컨테이너 한 번에 관리
   - nGrinder로 부하테스트
 - **PM**
