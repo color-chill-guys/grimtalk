@@ -3,6 +3,7 @@
 > **라이브로 배우고, 누구나 강사가 되는 그림 플랫폼!**  
 > 실시간 소통 기반 미술 교육 플랫폼
 
+- [🌐그림톡 서비스 바로가기](http://www.grimtalk.com)
 - [🎬영상 포트폴리오](https://youtu.be/ytY4NvndIQs)
 - [🎞시연 영상](https://youtu.be/ad_1H_TuAF4)
 
@@ -299,6 +300,5 @@ src
 
 ## 📌 기타 정보
 - **CI/CD:** GitLab, Jenkins를 활용한 자동화 배포
-- **배포 URL:** [www.grimtalk.com](http://www.grimtalk.com)
 - **테스트 방법:** QA 문서 작성 후 페이지별 테스트 진행
 
