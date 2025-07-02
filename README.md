@@ -3,7 +3,7 @@
 > **라이브로 배우고, 누구나 강사가 되는 그림 플랫폼!**  
 > 실시간 소통 기반 미술 교육 플랫폼
 
-- [🌐그림톡 서비스 바로가기](http://www.grimtalk.com)
+- [🌐그림톡 서비스 바로가기(백엔드 배포 중단)](https://grimtalk.vercel.app/)
 - [🎬영상 포트폴리오](https://youtu.be/ytY4NvndIQs)
 - [🎞시연 영상](https://youtu.be/ad_1H_TuAF4)
 
